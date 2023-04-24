@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+    <AddIn Type="Application">
+		<Name>OlimprojectFirstTask</Name>
+		<Assembly>OlimprojectFirstTask/OlimprojectFirstTask.dll</Assembly>
+		<FullClassName>OlimprojectFirstTask.App</FullClassName>
+		<AddInId>5F6B234E-AB70-4FC9-A9C3-65B85911FC37</AddInId>
+        <VendorId>Chistyakov Inc.</VendorId>
+        <VendorDescription>Chistyakov Inc.</VendorDescription>
+    </AddIn> 
+</RevitAddIns>
